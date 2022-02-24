@@ -1,1 +1,9 @@
 # SCPRED
+
+HERE, WE HAVE CONSIDERED FIVE CLASSES OF SKIN CANCER.
+
+OUR APP WILL RUN INTO STREAMLIT
+
+use the below command
+
+streamlit run app.py
